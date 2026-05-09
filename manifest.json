@@ -4,6 +4,7 @@
   "description": "Control financiero personal con escaneo OCR de tickets",
   "start_url": "./index.html",
   "display": "standalone",
+  "start_url": "/Control-cuentas/index.html",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "orientation": "portrait-primary",
