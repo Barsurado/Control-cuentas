@@ -35,14 +35,14 @@
       "short_name": "Escanear",
       "description": "Escanea un ticket directamente",
       "url": "./index.html#scan",
-      "icons": [{ "src": "icons/icon-96x96.png", "sizes": "96x96" }]
+      "icons": [{ "src": "icon-96x96.png", "sizes": "96x96" }]
     },
     {
       "name": "Entrada Manual",
       "short_name": "Manual",
       "description": "Añadir movimiento manualmente",
       "url": "./index.html#manual",
-      "icons": [{ "src": "icons/icon-96x96.png", "sizes": "96x96" }]
+      "icons": [{ "src": "icon-96x96.png", "sizes": "96x96" }]
     }
   ],
   "prefer_related_applications": false
