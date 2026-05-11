@@ -1,5 +1,5 @@
 // ControlCuentas Pro — Service Worker v2.3
-const CACHE_NAME = 'controlcuentas-v2.3'
+const CACHE_NAME = 'controlcuentas-v2.4'
 const BASE = '/Control-cuentas/';
 const STATIC_CACHE = 'cc-static-v2.3';
 const DATA_CACHE = 'cc-data-v2.3';
